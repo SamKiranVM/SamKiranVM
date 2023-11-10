@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**SamKiranVM/SamKiranVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Website:** 
+📞 **Phone:** +91 9207024484  
+📧 **Email:** samkiran306@gmail.com  
+📍 **Location:** Calicut, Kerala
+
 
 Here are some ideas to get you started:
 
