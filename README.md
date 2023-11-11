@@ -16,7 +16,7 @@
 ## 💻 Technical Skills
 
 - Programming languages: JavaScript, Python, C#, Java, C, C++ ,PHP, Kotlin.
-- Web Technologies: HTML5, CSS, React, Angular, Node, Bootstrap, MonGoDB.
+- Web Technologies: HTML5, CSS, React, Angular, Node, Bootstrap, MonGoDB, Flexbox.
 - Data Management: MySQL, MS Access.
 - Platforms: Linux, MS Windows2000, XP, Vista, Window7,10,11.
 
