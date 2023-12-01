@@ -22,6 +22,7 @@
 
 ## 🎖 Certifications
 
+- The Complete 2023 Web Development Boot-camp: HTML,CSS,React & Node | Udemy | Nov '23
 - Full Stack Web Development: HTML, CSS, React & Node | Udemy | Oct '23
 - JavaScript and PHP and Python Programming | Udemy Certified | Mar '22
 - Java Full Stack | Cipher Schools | Feb '22
@@ -48,13 +49,23 @@ CGPA 8.97
 - Enabling ease of passengers with reserving packages and meals, services at station etc.  
 - Created HTML, CSS, JavaScript, and JSP pages for user interaction.
 
-2. Android Memory Card Game	Jul '22  
+2. Vacation Tour Packages	Nov '23
+- **Domain:** Web Development | Programming Languages: HTML, CSS, JavaScript
+- Created a static web page for Vacation Tour Packages .
+- Created HTML, CSS, JavaScript, and bootstrap pages for user interaction.
+
+3. Merchandise Website	Nov '23
+- **Domain:** Web Development | Programming Languages: HTML, CSS, React.js
+- Created a static merchandise web page like Amazon,Flipkart, etc.
+- Created HTML, CSS, React js, and bootstrap pages for user interaction.
+
+4. Android Memory Card Game	Jul '22  
 - **Domain:** Android Game | Programming Language: Kotlin  
 - Built a memory game using Kotlin to test IQ.  
 - Upgraded code to make the game error-free.  
 - Learn new programming language called Kotlin.
 
-3. Rolling Ball Game in UNITY  Feb '23
+5. Rolling Ball Game in UNITY  Feb '23
 - **Domain:** Unity Game | Programming Language: C#  
 - Built a simple rolling ball game for entertainment.  
 - Coded to run smoothly and error-free.  
